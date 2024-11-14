@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Translyze</string>
+    <string name="permission_err_msg">Camera permission is not granted</string>
+    <string name="scan_err_msg">Failed to Scan</string>
+    <string name="no_detection_msg">No QR Code Detected</string>
+</resources>

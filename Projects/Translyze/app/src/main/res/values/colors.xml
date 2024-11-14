@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0096ff</color>
+    <color name="green">#00bf63</color>
+
+    <color name="colorPrimary">#6200EE</color> <!-- Change this to your desired color -->
+
+
+
+    <color name="Light_Cyan">#E0F7FA</color>
+    <color name="Deep_Sky_Blue">#039BE5</color>
+    <color name="Mint_Green">#66BB6A</color>
+    <color name="Medium_Sea_Green">#43A047</color>
+    <color name="Bright_Teal">#26A69A</color>
+    <color name="Dark_Charcoal">#212121</color>
+
+
+    <color name="Light_Slate_Gray">#ECEFF1</color>
+    <color name="Navy_Blue">#1E88E5</color>
+    <color name="Steel_Blue">#64B5F6</color>
+    <color name="Slate_Blue">#5C6BC0</color>
+    <color name="Teal_Blue">#26A69A</color>
+    <color name="Almost_Black">#263238</color>
+
+
+    <color name="primaryColor">#0a66c2</color> <!-- Button background color -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#111418</color> <!-- Primary text color -->
+    <color name="hintColor">#60758a</color> <!-- Placeholder hint text color -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#f0f2f5</color> <!-- Input background color -->
+    <color name="cardBorderColor">#dbe0e6</color> <!-- Border color for cards -->
+</resources>
